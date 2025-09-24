@@ -1,6 +1,5 @@
 reto 1
 Rama QA
-<<<<<<< HEAD
-=======
+HEAD
 rama develop
->>>>>>> develop
+develop

@@ -1,7 +1,6 @@
 reto 1
 Rama QA
-<<<<<<< HEAD
-=======
+HEAD
 rama develop
->>>>>>> develop
+develop
 Hola soy la rama task1
